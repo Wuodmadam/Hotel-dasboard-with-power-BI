@@ -5,7 +5,7 @@ This Power BI project (.pbix) delivers an interactive analytics dashboard for a 
 
 The project showcases expertise in data loading, transformation, star schema modeling, DAX calculations, and dashboard visualization using Power BI Desktop.
 
-![Dashboard Screenshot][https://github.com/Wuodmadam/Hotel-dashboard-with-power-BI/blob/master/bi%20dashboard.png]
+![Dashboard Screenshot](https://github.com/Wuodmadam/Hotel-dashboard-with-power-BI/blob/master/bi%20dashboard.png)
 
 ## Features 🚀
 - **Data Loading and Transformation** 🗂️: Ingests and cleans multiple CSV files, including `dim_date`, `dim_rooms`, `fact_bookings`, and additional tables, with duplicate removal and data preprocessing.
@@ -13,7 +13,7 @@ The project showcases expertise in data loading, transformation, star schema mod
 - **DAX Calculations** 📈: Includes custom measures for key metrics like ADR, RevPAR, and occupancy rates.
 - **Interactive Dashboard** 🖼️: Visualizes actionable insights to optimize hotel revenue and guest satisfaction.
 
-![Star Schema Diagram][INSERT_IMAGE_LINK_HERE_2]
+![Star Schema Diagram](https://github.com/Wuodmadam/Hotel-dashboard-with-power-BI/blob/master/relationships.PNG)
 
 ## Prerequisites ✅
 To work with this project, ensure you have the following:
@@ -60,7 +60,4 @@ To contribute:
 - Ensure all CSV file paths are correctly configured in Power BI Desktop to avoid data loading errors.
 - The `.pbix` file is a binary format; for version control, consider using Power BI Project (.pbip) format or managing source data separately.
 - Avoid saving directly to OneDrive/SharePoint due to potential file locking issues; use a local or synced folder instead.
-
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
