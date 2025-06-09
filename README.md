@@ -5,7 +5,7 @@ This Power BI project (.pbix) delivers an interactive analytics dashboard for a 
 
 The project showcases expertise in data loading, transformation, star schema modeling, DAX calculations, and dashboard visualization using Power BI Desktop.
 
-![Dashboard Screenshot][INSERT_IMAGE_LINK_HERE_1]
+![Dashboard Screenshot][https://github.com/Wuodmadam/Hotel-dashboard-with-power-BI/blob/master/bi%20dashboard.png]
 
 ## Features 🚀
 - **Data Loading and Transformation** 🗂️: Ingests and cleans multiple CSV files, including `dim_date`, `dim_rooms`, `fact_bookings`, and additional tables, with duplicate removal and data preprocessing.
